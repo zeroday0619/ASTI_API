@@ -1,2 +1,2 @@
-# ASTI_API
-Adult search term identification API
+# ASTI_DB
+Adult search term identification
